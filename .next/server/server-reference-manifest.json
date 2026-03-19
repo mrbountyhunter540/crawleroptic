@@ -1,0 +1,14 @@
+{
+  "node": {
+    "6333196d763c4d1bcb35dac2d3f8795fbfdae0cf": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CBurhan%20Khan%5C%5CDownloads%5C%5Ccrawleroptic-nextjs%5C%5Ccrawleroptic%5C%5Capp%5C%5Cactions%5C%5Cgenerate.ts%22%2C%5B%22generateLlmsTxt%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "ylm49h8xsxm0ngd0MD7oGrJl5cL6dzjA90RPi5tEx2M="
+}
