@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Rounded square background — matches navbar bg-secondary/20 -->
+  <rect width="32" height="32" rx="7" fill="#4edea3" fill-opacity="0.25"/>
+  
+  <!-- Zap icon — matches lucide-react Zap, color #4edea3 (secondary) -->
+  <polyline 
+    points="18,3 10,17 15,17 14,29 22,15 17,15 18,3" 
+    fill="#4edea3" 
+    stroke="#4edea3" 
+    stroke-width="0.5"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+</svg>
