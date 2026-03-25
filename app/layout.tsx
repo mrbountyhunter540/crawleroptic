@@ -146,6 +146,7 @@
 
 import type { Metadata } from "next";
 import "./globals.css";
+import GoogleAnalytics from "@/components/Googleanalytics";
 
 export const viewport = {
   width: "device-width",
@@ -215,6 +216,7 @@ export default function RootLayout({
         */}
       </head>
       <body className="bg-surface text-on-surface font-body antialiased min-h-screen">
+        <GoogleAnalytics />
         {children}
       </body>
     </html>
